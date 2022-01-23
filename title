@@ -1,0 +1,31 @@
+<html>
+<header><nav>
+
+<a href= "   ">   </a>
+<a href= "   ">   </a>
+<a href= "   ">   </a>
+<a href= "   ">   </a>
+</nav></header>
+<main><em> Welcome to our site, I have something for ya </em></main>
+<body>
+<img src="  " width="800px">
+</body>
+
+
+<style>
+nav a {    color: #F0FFFF;
+           background: #696969;
+           text-decoration: none;
+           
+main {     background: #696969;
+           color: #F0FFFF;
+           
+body {     background: #696969;
+           color: #F0FFFF;           
+
+
+
+
+
+
+</style>
